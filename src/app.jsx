@@ -4,7 +4,7 @@ var React = require('react');
 
 var App = React.createClass({
   render: function() {
-    return <h2>sdfs</h2>
+    return <h2>Hello world</h2>
   }
 })
 
