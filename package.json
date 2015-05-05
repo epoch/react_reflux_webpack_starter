@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^2.4.1",
-    "react": "^0.12.1",
-    "reflux": "^0.2.1",
+    "react": "^0.13.0",
+    "reflux": "^0.2.8",
     "node-sass": "1.0.3"
   },
   "devDependencies": {
